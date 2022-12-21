@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js",
-    "deploy": "npm run build"
+    "deploy": "npm run build",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
